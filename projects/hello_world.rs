@@ -17,4 +17,5 @@ fn main() {
     let Vec2 { x, .. } = v;
     println!("{}", v);
     println!("{}", x);
+    println!("{}", x);
 }
